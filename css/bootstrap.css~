@@ -617,6 +617,7 @@ a:focus {
 
 .container {
   margin-right: auto;
+  margin-top: auto;
   margin-left: auto;
   *zoom: 1;
 }
@@ -5963,18 +5964,20 @@ a.badge:focus {
 
 .carousel {
   position: relative;
-  top: 100px;
-  left: 50px;
-  width: 500px;
-  margin-bottom: 20px;
+  margin-top: 8%;
+  margin-bottom: 0px;
   line-height: 1;
 }
 
 .carousel-inner {
   position: relative;
-  width: 500px;
+  width: 40%;
   overflow: hidden;
+  margin-right: auto;
+margin-top: auto;
+margin-left: auto;
 }
+
 
 .carousel-inner > .item {
   position: relative;

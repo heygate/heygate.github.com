@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Carousel Template &middot; Bootstrap</title>
+    <title>Heygate Estate &middot; Setting the Record Straight</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -286,25 +286,14 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="brand" href="#">Project name</a>
+            <a class="brand" href="#">Heygate Estate</a>
             <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
             <div class="nav-collapse collapse">
               <ul class="nav">
                 <li class="active"><a href="index.html">Home</a></li>
                 <li><a href="timeline.html">Timeline</a></li>
                 <li><a href="about.html">About</a></li>
-                <!-- Read about Bootstrap dropdowns at http://twitter.github.com/bootstrap/javascript.html#dropdowns -->
-                <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
-                  <ul class="dropdown-menu">
-                    <li><a href="#">Action</a></li>
-                    <li><a href="#">Another action</a></li>
-                    <li><a href="#">Something else here</a></li>
-                    <li class="divider"></li>
-                    <li class="nav-header">Nav header</li>
-                    <li><a href="#">Separated link</a></li>
-                    <li><a href="#">One more separated link</a></li>
-                  </ul>
+                
                 </li>
               </ul>
             </div><!--/.nav-collapse -->
@@ -385,20 +374,39 @@ class of people to the elephant and castle.’ Well I said ‘you can’t get a 
       <!-- Three columns of text below the carousel -->
       <div class="row">
         <div class="span4">
-          <h2>Muggers' Paradise?</h2>
-          <p>Despite having <a href="http://betterelephant.org/images/HeygateCrimeStats.pdf">crime rate statistics</a> nearly 50% below the borough average, the Heygate estate has been unfairly portrayed in the press and media. This is partly down to Council press statements and partly to its ongoing use as a film backdrop.</p>
-          <p><a class="btn" href="#">View details &raquo;</a></p>
+          
+          
+<div class="well sidebar-nav">
+            <ul class="nav nav-list">
+              <li class="nav-header">Media Articles</li>
+             
+              
+              <li><a href="http://www.guardian.co.uk/commentisfree/2013/mar/27/reconfiguration-london-akin-social-cleansing?CMP=twt_gu"><img src="http://images2.similargroup.com/image?url=blogs.guardian.co.uk&t=2&s=10&h=13597718649441412833"> The Guardian - The Reconfiguration of London is akin to Social Cleasing (27/3/2013)</a></li>
+              <li><a href="http://www.newstatesman.com/2013/02/southwark-accidentally-leaks-confidential-information"><img src="http://a0.twimg.com/profile_images/569409742/ns_online_144_normal.jpg" width="25" height="25"> New Statesman - Southwark accidentally leaks Confidential Information (5/2/2013)</a></li>
+              <li><a href="http://www.independent.co.uk/news/uk/home-news/15bn-revamp-of-sink-estate-reveals-social-cleansing-plan-8482307.html"><img src="http://johnemsley.com/images/eagle.jpg" width="24" height="25">The Independent - £1.5bn Revamp of sink estate reveals Social Cleansing Plan (5/2/2103)</a></li>
+              <li><a href="img/LondonEveningStandard3.pdf"><img src="http://www.whitelight.ltd.uk/wp-content/uploads/2013/02/es-icon.jpg" width="25" height="25"> Evening Standard - Looks nice, but where's the Affordable Housing? (17/1/2013)</a></li>
+<li><a href="http://www.southwarknews.co.uk/00,news,26174,185,00.htm"><img src="http://s3.mediauk.com/logos/50/41396.png" width="76" height="25"> Southwark News - Investigation into Donation Declaration (29/11/2012)</a></li>    
+<li><a><a href="http://www.bbc.co.uk/news/uk-england-london-19371334"><img src="http://www.logodesignlove.com/images/evolution/bbc-logo-design.gif" width="80" height="25"> BBC News - Heygate estate residents fight Compulsory Purchase Order (29/8/2012)</a></li>
+          
+<li><a href="img/GuardianArticleSMoss.pdf"><img src="http://images2.similargroup.com/image?url=blogs.guardian.co.uk&t=2&s=10&h=13597718649441412833"> The Guardian - Death of a Housing Ideal (4/3/2011)</a></li>
+<li><a href="http://www.telegraph.co.uk/news/uknews/3164784/Stressed-council-tennants-get-2000-happiness-gurus.html"><img src="http://www.telegraph.co.uk/favicon.ico?v=1.1" width="25" height="25"> Daily Telegraph - Stressed residents offered £2,000 Happiness Therapy (9/10/2008)</a></li>
+            </ul>
+          </div>
+
         </div><!-- /.span4 -->
         <div class="span4">
-          <h2>New Homes?</h2>
-          <p>Southwark Council <a href="http://betterelephant.github.com/images/jonabbottCPOinquiry8Feb2013.pdf">instigated eviction proceedings against 198 households</a> on the Heygate estate, having <a href="http://betterelephant.github.com/images/stayputuntilreplacementsready.pdf">failed to build</a> the <a href="http://betterelephant.github.com/images/new_homes_for_heygate.pdf">new homes</a> originally promised to residents. Despite this, <a href="http://www.southwark.gov.uk/info/200183/elephant_and_castle/1124/heygate_estate/1">Southwark's website</a> claims that <b><i>"residents have been rehoused around the borough in new homes of their choice."</b></i> In August 2012, it issued a press statement claiming that <b><i>"The majority of people rehoused are delighted with their new housing, and are pleased to have left the Heygate after over 70% of residents voted for its demolition in August 1999."</b></i> </p>
-          <p><a class="btn" href="#">View details &raquo;</a></p>
-        </div><!-- /.span4 -->
+          <h2>Setting the Record Straight</h2>
+          <p><b>This website has been created by current and former residents of the Heygate estate who are upset about the way we have been treated. We have been ousted from our homes and community on the back of false promises by Southwark council and its development partner Lend Lease. Many of us were reluctant to leave our homes and 198 households were issued with eviction orders. We were promised new homes at the Elephant which never got built and a right to return to new homes on the Heygate site, which we now discover will provide just 79 social housing units. To add insult to injury, Southwark and its development partner have instigated a press campaign discrediting the estate and misrepresenting events. This website is an attempt to set the record straight in providing a more accurate portayal of the estate and events surrounding the regeneration.
+We are currently making a short film comprising interviews with former residents, which will be published online by Autumn 2013. In the meantime check out our <a href="timeline.html">timeline</a> or Frequently Asked Questions section below.</b></p>
+           </div><!-- /.span4 -->
         <div class="span4">
-          <a class="twitter-timeline" href="https://twitter.com/search?q=%23heygate" data-widget-id="320917985495744512">Tweets about "#heygate"</a>
+          
+<a class="twitter-timeline" href="https://twitter.com/betterelephant" data-widget-id="320919805047750656">Tweets by @betterelephant</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
-          <p><a class="btn" href="#">View details &raquo;</a></p>
+
+
+          
         </div><!-- /.span4 -->
       </div><!-- /.row -->
 
@@ -418,21 +426,21 @@ class of people to the elephant and castle.’ Well I said ‘you can’t get a 
       <div class="featurette">
         <img src="http://whatwouldtotowatch.com/wp-content/uploads/2010/04/HARRY-BROWN-Michael-Caine.jpg" align="right">
         <h2 class="featurette-heading">Muggers' Paradise?</h2>
-        <p class="lead">Despite having <a href="http://betterelephant.org/images/HeygateCrimeStats.pdf">crime rate statistics</a> nearly 50% below the borough average, the <a href="http://www.southwark.gov.uk/news/article/305/demolition_begins_on_heygate_estate">council claims</a> that the estate suffered from crime and antisocial behaviour issues. As a result of council press statements and its ongoing use as a film backdrop for a large number of gang and violence-related movies like 'Harry Brown', the estate has gained a wholly undeserved reputation.  </p>
+        <p class="lead">Despite having <a href="http://betterelephant.org/images/HeygateCrimeStats.pdf">a crime rate</a> 50% below the borough average, the <a href="http://www.southwark.gov.uk/news/article/305/demolition_begins_on_heygate_estate">council claims</a> that the estate suffered from crime and antisocial behaviour issues. As a result of council press statements and its ongoing use as a film backdrop for a large number of gang and violence-related movies like 'Harry Brown', the estate has gained a wholly undeserved reputation.  </p>
       </div>
 
  <hr class="featurette-divider">
 
       <div class="featurette">
-        <img class="featurette-image pull-left" src="img/examples/browser-icon-firefox.png" width="400" height="300">
+        <img src="img/3heygatetrees.jpg" width="400" height="300" align="right">
         <h2 class="featurette-heading">Concrete Fortress?</h2>
-        <p class="lead">The council also claims the estate was a bad design, in that </p>
+        <p class="lead">The council and its development partner claim that the Heygate estate is a bad design because it restricts permeability with surrounding areas. Councillor Colley <a href="http://www.bbc.co.uk/news/uk-england-london-21338296">recently described it</a> as a 'concrete fortress' and a <a href="http://www.bdonline.co.uk/comment/debate/should-the-heygate-estate-be-torn-down?/5050351.article">'blight on the landscape'</a>. However, those who are familiar with the area know that the Heygate is encircled by two of London's busiest roads: Walworth road and the A2, which has traffic volumes comparable to the M25. Tim Tinker, the Heygate estate's architect claims that the redvelopment plans fail to take this into account. He claims the new plans do nothing to improve connections across the roads and that they fail to address the associated noise and pollution issues. Tinker's design, which sees the perimeter blocks screening the estate from noise, was <a href="http://www.bdonline.co.uk/news/heygate-was-no-muggers-paradise-says-original-architect/5050061.article">recently defended at a public inquiry</a> into the redevelopment. Those who are brave enough to venture into the estate always exclaim how quiet and peaceful it seems.    </p>
       </div>
 
 <hr class="featurette-divider">
 
       <div class="featurette">
-        <img class="featurette-image pull-left" src="img/examples/browser-icon-firefox.png" width="400" height="300">
+        <img src="http://betterelephant.github.com/images/newhomesforheygate.jpg" align="right" width="300" height="400">
         <h2 class="featurette-heading">Where did the estate's residents go?</h2>
         <p class="lead">The residents were originally promised new homes in the replacement development and in a number of 'early housing' developments at the Elephant & Castle.... Eviction proceedings initiated against 198 households.  </p>
       </div>
@@ -442,7 +450,7 @@ class of people to the elephant and castle.’ Well I said ‘you can’t get a 
       <div class="featurette">
         <iframe width="400" height="225" src="http://www.youtube.com/embed/mfrHnAIlGtg" align="right" frameborder="0" allowfullscreen></iframe>
         <h2 class="featurette-heading">What is Gentrification?</h2>
-        <p class="lead">Tim Tinker talks about the original 1960s masterplan and the design of the estate. etc. . etc ..</p>
+        <p class="lead">Gentrification is defined as the displacement of people on lower incomes by those on higher incomes. Research shows that Southwark....</p>
       </div>
 
       <hr class="featurette-divider">

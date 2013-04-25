@@ -342,6 +342,16 @@ class of people to the elephant and castle.’ Well I said ‘you can’t get a 
             </div>
           </div>
         </div>
+ <div class="item">
+          <img src="img/DylanParfitt.JPG" alt="">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Dylan Parfitt</h1>
+              <p class="lead">Myself and other residents moved into inferior alternative accommodation, thinking that we would have the right to return to brand new homes when they were built. Now this will never materialise – we have been deceived.</p>
+              <a class="btn btn-large btn-primary" href="img/DylanParfitt.pdf">Read Dylan's story</a>
+            </div>
+          </div>
+        </div>
 <div class="item">
           <img src="img/examples/lizgrace.png" alt="">
           <div class="container">
@@ -428,7 +438,7 @@ We are currently making a short film comprising interviews with former residents
       <div class="featurette">
         <iframe width="400" height="225" src="http://www.youtube.com/embed/SfJjt12loiI" align="right" frameborder="0" allowfullscreen></iframe>
         <h2 class="featurette-heading">Why is the estate being demolished? </h2>
-        <p class="lead">Despite being <a href="http://heygate.herokuapp.com/monthly-roundup/1998-allot-and-max-survey.html">declared structurally sound</a>, and despite <a href="http://betterelephant.org/blog/2012/12/23/1998-southwark-housing-stock-survey/">evidence</a> showing that the estate's maintenance costs were below average compared to the rest of the council's stock, Southwark claims that it couldn't afford to maintain the estate. <a href="http://betterelephant.github.com/images/strategic24June.pdf">Elsewhere it claims</a> that demolition will unlock the economic potential of the site and help prosper from its location. However, recent <a href="http://betterelephant.org/blog/2013/02/04/council-accidentally-publishes-confidential-regeneration-agreement/">leaked documents</a> show that the council will actually be making an overall loss on the sale of the Heygate site, while developer Lend Lease is set to make £194 million profit from its purchase.</p>
+        <p class="lead">Despite being <a href="http://heygate.herokuapp.com/monthly-roundup/1998-allot-and-max-survey.html">declared structurally sound</a>, and despite <a href="http://betterelephant.org/blog/2012/12/23/1998-southwark-housing-stock-survey/">evidence</a> showing that the estate's maintenance costs were below average compared to the rest of the council's stock, Southwark claims that it couldn't afford to maintain the estate. <a href="http://betterelephant.github.com/images/strategic24June.pdf">Elsewhere it claims</a> that demolition will unlock the economic potential of the site and help prosper from its location. However, recent <a href="http://betterelephant.org/blog/2013/02/04/council-accidentally-publishes-confidential-regeneration-agreement/">leaked documents</a> show that the council will actually be making an overall loss on the sale of the Heygate site, while developer Lend Lease is set to make £194 million profit from its purchase. A <a href="http://heygateestate.wordpress.com">recent report</a> by global architect <a href="http://www.gensler.com">Gensler</a> showed that flats on the estate could be refurbished and modernised for just £14,000 per unit.</p>
       </div>
 
       <hr class="featurette-divider">

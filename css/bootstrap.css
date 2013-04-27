@@ -6035,14 +6035,14 @@ margin-left: auto;
 .carousel-control {
   position: absolute;
   top: 40%;
-  left: 15px;
+  left: 265px;
   width: 40px;
   height: 40px;
   margin-top: -20px;
   font-size: 60px;
   font-weight: 100;
   line-height: 30px;
-  color: #ffffff;
+  color: #000000;
   text-align: center;
   background: #222222;
   border: 3px solid #ffffff;
@@ -6054,7 +6054,7 @@ margin-left: auto;
 }
 
 .carousel-control.right {
-  right: 15px;
+  right: 275px;
   left: auto;
 }
 

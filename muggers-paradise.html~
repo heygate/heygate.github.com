@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Heygate Estate &middot; Setting the Record Straight</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/bootstrap-responsive.css" rel="stylesheet">
+    <style>
+
+    /* GLOBAL STYLES
+    -------------------------------------------------- */
+    /* Padding below the footer and lighter body text */
+
+    body {
+      padding-bottom: 40px;
+      color: #5a5a5a;
+    }
+
+
+
+    /* CUSTOMIZE THE NAVBAR
+    -------------------------------------------------- */
+
+    /* Special class on .container surrounding .navbar, used for positioning it into place. */
+    .navbar-wrapper {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 10;
+      margin-top: 20px;
+      margin-bottom: -90px; /* Negative margin to pull up carousel. 90px is roughly margins and height of navbar. */
+    }
+    .navbar-wrapper .navbar {
+
+    }
+
+    /* Remove border and change up box shadow for more contrast */
+    .navbar .navbar-inner {
+      border: 0;
+      -webkit-box-shadow: 0 2px 10px rgba(0,0,0,.25);
+         -moz-box-shadow: 0 2px 10px rgba(0,0,0,.25);
+              box-shadow: 0 2px 10px rgba(0,0,0,.25);
+    }
+
+    /* Downsize the brand/project name a bit */
+    .navbar .brand {
+      padding: 14px 20px 16px; /* Increase vertical padding to match navbar links */
+      font-size: 16px;
+      font-weight: bold;
+      text-shadow: 0 -1px 0 rgba(0,0,0,.5);
+    }
+
+    /* Navbar links: increase padding for taller navbar */
+    .navbar .nav > li > a {
+      padding: 15px 20px;
+    }
+
+    /* Offset the responsive button for proper vertical alignment */
+    .navbar .btn-navbar {
+      margin-top: 10px;
+    }
+/* RESPONSIVE CSS
+    -------------------------------------------------- */
+
+    @media (max-width: 979px) {
+
+      .container.navbar-wrapper {
+        margin-bottom: 0;
+        width: auto;
+      }
+      .navbar-inner {
+        border-radius: 0;
+        margin: -20px 0;
+      }
+
+      .carousel .item {
+        height: 500px;
+      }
+      .carousel img {
+        width: auto;
+        height: 500px;
+      }
+
+      .featurette {
+        height: auto;
+        padding: 0;
+      }
+      .featurette-image.pull-left,
+      .featurette-image.pull-right {
+        display: block;
+        float: none;
+        max-width: 40%;
+        margin: 0 auto 20px;
+      }
+    }
+
+
+    @media (max-width: 767px) {
+
+      .navbar-inner {
+        margin: -20px;
+      }
+
+      .carousel {
+        margin-left: -20px;
+        margin-right: -20px;
+      }
+      .carousel .container {
+
+      }
+      .carousel .item {
+        height: 300px;
+      }
+      .carousel img {
+        height: 300px;
+      }
+      .carousel-caption {
+        width: 65%;
+        padding: 0 70px;
+        margin-top: 100px;
+      }
+      .carousel-caption h1 {
+        font-size: 30px;
+      }
+      .carousel-caption .lead,
+      .carousel-caption .btn {
+        font-size: 18px;
+      }
+
+      .marketing .span4 + .span4 {
+        margin-top: 40px;
+      }
+
+      .featurette-heading {
+        font-size: 30px;
+      }
+      .featurette .lead {
+        font-size: 18px;
+        line-height: 1.5;
+      }
+
+    }
+    </style>
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="ico/favicon.png">
+  </head>
+
+
+<body>
+
+
+
+    <!-- NAVBAR
+    ================================================== -->
+    <div class="navbar-wrapper">
+      <!-- Wrap the .navbar in .container to center it within the absolutely positioned parent. -->
+      <div class="container">
+
+        <div class="navbar navbar-inverse">
+          <div class="navbar-inner">
+            <!-- Responsive Navbar Part 1: Button for triggering responsive navbar (not covered in tutorial). Include responsive CSS to utilize. -->
+            <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="brand" href="index.html">Heygate Estate</a>
+            <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
+            <div class="nav-collapse collapse">
+              <ul class="nav">
+                <li class="active"><a href="muggers-paradise.html">Muggers' Paradise</a></li>
+                <li><a href="timeline.html">Timeline</a></li>
+                <li><a href="about.html">About</a></li>
+               
+                </li>
+              </ul>
+            </div><!--/.nav-collapse -->
+          </div><!-- /.navbar-inner -->
+        </div><!-- /.navbar -->
+
+      </div> <!-- /.container -->
+    </div><!-- /.navbar-wrapper -->
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+<div class="container marketing">
+<div class="featurette">
+        <img src="http://whatwouldtotowatch.com/wp-content/uploads/2010/04/HARRY-BROWN-Michael-Caine.jpg" align="right">
+        <h2 class="featurette-heading">Muggers' Paradise?</h2>
+        <p class="lead">Despite Met Police statistics showing <a href="http://betterelephant.org/images/HeygateCrimeStats.pdf">a crime rate</a> 45% below the borough average, the <a href="http://www.southwark.gov.uk/news/article/305/demolition_begins_on_heygate_estate">council claims</a> that the Heygate estate suffered from crime and antisocial behaviour. As a result of sloppy journalism and press statements issued by the council, the estate has been labelled as <i><b>"Muggers' paradise"</b></i> in articles by the <a href="http://www.bbc.co.uk/news/uk-england-london-13092349">BBC</a>, the <a href="http://www.standard.co.uk/news/london/makeover-of-muggers-paradise-heygate-estate-7445697.html">Evening Standard</a> and the <a href="http://www.dailymail.co.uk/news/article-2316072/Poignant-pictures-decaying-crime-ridden-housing-estate-fallen-ruin-remaining-residents-await-bulldozers.html">Daily Mail</a>. 
+
+The estate has also been promoted by the council for use as a film backdrop for a large number of gang and violence-related movies like Michael Caine's "Harry Brown", who labelled the estate <i><b>"a rotten place, not fit for animals"</b></i>. We think this is an insult to our former community and the hundreds of families who lived here happily for decades until we were forced from our homes to make way for the regeneration. 
+</br>
+</br>
+</br>
+<img src="img/queenandcountry.jpg" height="200" width="300" align="left">
+Filming has always been a bone of contention on the estate ever since the first time it was used as an urban crime-related backdrop in the 1989 Denzel Washington film Queen & Country.
+The council has always argued that it ensures the films don't use the estate's name and that it provides much-needed income for the council. It was only after years of complaints from residents that films portraying drugs and violence were <a href="http://www.bbc.co.uk/news/entertainment-arts-16858535">banned</a> from using the estate in 2012. It was <a href="https://www.whatdotheyknow.com/request/financial_earnings_and_cost">recently disclosed</a> that Southwark outsources its film location services, and that around half of its annual revenue from filming in Southwark is paid to its outsourcing company <a href="http://filmfixer.co.uk">filmfixer.co.uk.</a>
+</br>
+</br>
+</br>
+<img src="http://www.insidehousing.co.uk/pictures/643xAny/8/3/6/34836_ChopsticksBefore.jpg" height="200" width="200" align="right">
+In August 2012, the council <a href="http://www.insidehousing.co.uk/development/london-council-removes-painted-murals/6523132.article">came under fire</a> for selectively removing politically sensitive pieces of graffiti on the estate.
+</br>
+</br>
+<img src="http://southwarknotes.files.wordpress.com/2012/09/rtw___.jpg" width="300" height="200" align="left">Non politically sensitive graffiti is not just tolerated but also encouraged: in September 2012 <a href="img/releasethewolves.pdf">the council commissioned</a> street artist Gold Peg to create a 300 metre long graffiti mural as part of a go-karting event. <img src="http://farm9.staticflickr.com/8488/8259411838_a570dc583e_m.jpg" align="right">  
+While political graffiti is still quickly removed, the council does nothing to disuade the long line of youths descending on the estate every weekend, keen to get their tag seen in national newspaper articles like this one:
+<a href="http://www.dailymail.co.uk/news/article-2316072/Poignant-pictures-decaying-crime-ridden-housing-estate-fallen-ruin-remaining-residents-await-bulldozers.html">http://www.dailymail.co.uk/news/article-2316072/Poignant-pictures-decaying-crime-ridden-housing-estate-fallen-ruin-remaining-residents-await-bulldozers.html</a> 
+</br>
+
+
+
+
+
+</div>
+
+
+
+</body>

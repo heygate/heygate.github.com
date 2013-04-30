@@ -286,11 +286,11 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="brand" href="#">Heygate Estate</a>
+            <a class="brand" href="#">Heygate Was Home</a>
             <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
             <div class="nav-collapse collapse">
               <ul class="nav">
-                <li class="active"><a href="muggers-paradise.html">Muggers' Paradise</a></li>
+                <li class="active"><a href="muggers-paradise.html">Not Muggers' Paradise</a></li>
                 <li><a href="timeline.html">Timeline</a></li>
                               
                 </li>
@@ -415,7 +415,7 @@ class of people to the elephant and castle.’ Well I said ‘you can’t get a 
         </div><!-- /.span4 -->
         <div class="span4">
           <h2>Setting the Record Straight</h2>
-          <p class="lead"><b>This website has been created by current and former residents of the Heygate estate who are attempting to set the record straight. We are upset that we won't be getting the new homes we were promised, and upset about the way the estate is being portrayed as <a href="http://www.bbc.co.uk/news/uk-england-london-13092349">"Muggers' Paradise"</a> in the media. We are creating a series of short films involving former residents, which we hope will give a more accurate account of the estate and its regeneration. These will be published online here during summer 2013.
+          <p class="lead"><b>This website has been created by former residents of the Heygate estate who are attempting to set the record straight. We are upset that we won't be getting the new homes we were promised, and upset about the way the estate is being portrayed as <a href="http://www.bbc.co.uk/news/uk-england-london-13092349">"Muggers' Paradise"</a> in the media. We are creating a series of short films involving former residents, which we hope will give a more accurate account of the estate and its regeneration. These will be published online here during summer 2013.
 </p>
            </div><!-- /.span4 -->
         <div class="span4">
@@ -472,7 +472,7 @@ The estate has also been promoted by the council for use as a film backdrop for 
       <div class="featurette">
         <iframe width="400" height="225" src="http://www.youtube.com/embed/mfrHnAIlGtg" align="right" frameborder="0" allowfullscreen></iframe>
         <h2 class="featurette-heading">What is Gentrification?</h2>
-        <p class="lead">Gentrification is the displacement of people on lower incomes by those on higher incomes. This can be municipal gentrification as with the Heygate redevelopment where low income families are forced out and 1,100 social housing units are replaced by private housing. Or it can be market-led gentrification where people are forced to relocate simply because of the associated rise in rents within an area. Large scale redevelopments such as this also result in many small businesses and independent retailers being forced out, as the nature of the development model requires chain stores and supermarkets to sign up to pre-letting agreements with developers. Far from creating a more mixed community, <a href="img/tenurechangeanalysis.pdf">documents</a> submitted at the Feb 2013 Heygate CPO Public Inquiry show that the Elephant & Castle regeneration will reduce the amount of social housing in the area to just 8%.</p>
+        <p class="lead">Gentrification is the displacement of people on lower incomes by those on higher incomes. This can be municipal gentrification as with the Heygate redevelopment where low income families are forced out and 1,100 social housing units are replaced by private housing. Or it can be market-led gentrification where people are forced to relocate simply because of the associated rise in rents within an area. Large scale redevelopments such as this also result in many small businesses and independent retailers being forced out, as the nature of the development model requires chain stores and supermarkets to sign up to pre-letting agreements with developers. Far from creating a more mixed community, <a href="img/tenurechangeanalysis.pdf">documents</a> submitted at the <a href="img/CPOPressRelease.pdf">Feb 2013 Heygate CPO Public Inquiry</a> show that the Elephant & Castle regeneration will reduce the amount of social housing in the area to just 8%.</p>
       </div>
 
       <hr class="featurette-divider">

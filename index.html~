@@ -342,6 +342,16 @@ class of people to the elephant and castle.’ Well I said ‘you can’t get a 
             </div>
           </div>
         </div>
+<div class="item">
+          <img src="img/mlcandraycook.jpg" alt="">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>John Colfer</h1>
+              <p class="lead">Our parents never even contemplated leaving their family home, as did many other long term residents and it broke many hearts. This broke up many families and friendships and scattered everyone far and wide. </p>
+              <a class="btn btn-large btn-primary" href="img/JohnColfer.pdf">Read John's story</a>
+            </div>
+          </div>
+        </div>
  <div class="item">
           <img src="img/DylanParfitt.png" alt="">
           <div class="container">
@@ -448,10 +458,7 @@ The estate has also been promoted by the council for use as a film backdrop for 
 <div class="featurette">
 
         <img src="http://www.london-se1.co.uk/news/imageuploads/1280161383_62.49.27.213.jpg" height="300" width="400" align="right">
-<figure><figcaption>
-                yay!!!
-        </figcaption>
-</figure>
+
         <h2 class="featurette-heading">Sold at a loss? </h2>
         <p class="lead">Despite being <a href="http://heygate.herokuapp.com/monthly-roundup/1998-allot-and-max-survey.html">declared structurally sound</a>, and despite <a href="http://betterelephant.org/blog/2012/12/23/1998-southwark-housing-stock-survey/">evidence</a> showing that the estate's maintenance costs were below average compared to the rest of the council's stock, Southwark claims that it couldn't afford to maintain the estate. <a href="http://betterelephant.github.com/images/strategic24June.pdf">Elsewhere it claims</a> that demolition will unlock the economic potential of the site and help prosper from its location. However, recent <a href="http://betterelephant.org/blog/2013/02/04/council-accidentally-publishes-confidential-regeneration-agreement/">leaked documents</a> show that the council will actually be making an overall loss on the sale of the Heygate site, while developer Lend Lease is set to make at least £194 million profit from its purchase. A <a href="http://heygateestate.wordpress.com">recent report</a> by global architect <a href="http://www.gensler.com">Gensler</a> showed that flats on the estate could have been refurbished and modernised for just £14,000 per unit.</p>
       </div>

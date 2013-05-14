@@ -292,6 +292,7 @@
               <ul class="nav">
                 <li><a href="muggers-paradise.html">Not Muggers' Paradise</a></li>
                 <li><a href="timeline.html">Timeline</a></li>
+                <li><a href="gallery.html">Images</a></li>
                               
                 </li>
               </ul>
@@ -348,7 +349,7 @@ class of people to the elephant and castle.’ Well I said ‘you can’t get a 
             <div class="carousel-caption">
               <h1>John Colfer</h1>
               <p class="lead">Our parents never even contemplated leaving their family home, neither did many other long term residents and it broke many hearts. This broke up many families and friendships and scattered everyone far and wide. </p>
-              <a class="btn btn-large btn-primary" href="img/JohnColfe.pdf">Read John's story</a>
+              <a class="btn btn-large btn-primary" href="img/JohnColfer.pdf">Read John's story</a>
             </div>
           </div>
         </div>

@@ -292,7 +292,7 @@
               <ul class="nav">
                 <li><a href="muggers-paradise.html">Not Muggers' Paradise</a></li>
                 <li><a href="timeline.html">Timeline</a></li>
-                <li><a href="gallery.html">Images</a></li>
+                <li><a href="gallery.html">Memories</a></li>
                               
                 </li>
               </ul>
@@ -370,6 +370,16 @@ class of people to the elephant and castle.’ Well I said ‘you can’t get a 
               <h1>Liz Grace</h1>
               <p class="lead">We lived here for 35 years. That's a lifespan to a lot of people, and then to be forcibly moved out of it. Why? because this land is worth millions. They want to get rid of the social housing and build properties for the rich, like the famous Strata Tower across the way.</p>
               <a class="btn btn-large btn-primary" href="img/examples/LizGrace.pdf">Read Liz's story</a>
+            </div>
+          </div>
+        </div>
+<div class="item">
+          <img src="img/nicolaheygate.jpg" alt="">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Nicola Carpenter</h1>
+              <p class="lead">I am fed up of reading that the estate was a hotbed of crime and deprivation by the media and local politicians.</p>
+              <a class="btn btn-large btn-primary" href="img/NicolaCarpenter.pdf">Read Nicola's story</a>
             </div>
           </div>
         </div>
@@ -461,7 +471,7 @@ The estate has also been promoted by the council for use as a film backdrop for 
         <img src="http://www.london-se1.co.uk/news/imageuploads/1280161383_62.49.27.213.jpg" height="300" width="400" align="right">
 
         <h2 class="featurette-heading">Beyond Repair? </h2>
-        <p class="lead">Despite being <a href="http://heygate.herokuapp.com/monthly-roundup/1998-allot-and-max-survey.html">declared structurally sound</a>, despite <a href="http://betterelephant.org/blog/2012/12/23/1998-southwark-housing-stock-survey/">evidence</a> showing that the estate's maintenance costs were below average compared to the rest of the council's stock, and despite <a href="img/heygatedoubleglazing.png">double glazing having been installed</a> in many flats on the estate, Southwark <a href="https://docs.google.com/viewer?url=http://betterelephant.github.com/images/futureofheygate.pdf&chrome=true">told us</a> that we had to move out of our homes because it simply didn't have enough money to bring them up to the decent homes standard. The council later claimed that demolition was necessary in order to unlock the economic potential of the site and help prosper from its location. However, recent <a href="http://betterelephant.org/blog/2013/02/04/council-accidentally-publishes-confidential-regeneration-agreement/">leaked documents</a> show that the council has spent over £44m in just emptying the estate, and will actually be making an overall loss on the sale of the Heygate site, while developer Lend Lease is set to make at least £194 million profit from its purchase. A <a href="http://heygateestate.wordpress.com">recent report</a> by global architect <a href="http://www.gensler.com">Gensler</a> showed that flats on the estate could have been refurbished and modernised for just £14,000 per unit.</p>
+        <p class="lead">Despite being <a href="http://heygate.herokuapp.com/monthly-roundup/1998-allot-and-max-survey.html">declared structurally sound</a>, despite <a href="http://betterelephant.org/blog/2012/12/23/1998-southwark-housing-stock-survey/">evidence</a> showing that the estate's maintenance costs were below average compared to the rest of the council's stock, and despite <a href="img/heygatedoubleglazing.png">double glazing having been installed</a> in many flats on the estate, Southwark <a href="https://docs.google.com/viewer?url=http://betterelephant.github.com/images/futureofheygate.pdf&chrome=true">told us</a> that we had to move out of our homes because it simply didn't have enough money to bring them up to the decent homes standard. The council later claimed that demolition was necessary in order to unlock the economic potential of the site and help prosper from its location. However, recent <a href="http://betterelephant.org/Economic/">leaked documents</a> show that the council has spent over £44m in just emptying the estate, and will actually be making an overall loss on the sale of the Heygate site, while developer Lend Lease is set to make at least £194 million profit from its purchase. A <a href="http://heygateestate.wordpress.com">recent report</a> by global architect <a href="http://www.gensler.com">Gensler</a> showed that flats on the estate could have been refurbished and modernised for just £14,000 per unit.</p>
       </div>
 
       <hr class="featurette-divider">

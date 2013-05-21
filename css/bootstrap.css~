@@ -6035,7 +6035,7 @@ margin-left: auto;
 .carousel-control {
   position: absolute;
   top: 40%;
-  left: 295px;
+  left: 265px;
   width: 40px;
   height: 40px;
   margin-top: -20px;
@@ -6054,7 +6054,7 @@ margin-left: auto;
 }
 
 .carousel-control.right {
-  right: 295px;
+  right: 275px;
   left: auto;
 }
 
@@ -6090,6 +6090,34 @@ margin-left: auto;
 .carousel-indicators .active {
   background-color: #fff;
 }
+
+.carousel-caption-top {
+  position: absolute;
+  width: 490px;
+  right: 0;
+  top: 0;
+  left: 0;
+  padding: 15px;
+  background: #333333;
+  background: rgba(0, 0, 0, 0.75);
+}
+
+.carousel-caption-top h4,
+.carousel-caption-top p {
+  line-height: 20px;
+  color: #ffffff;
+}
+
+.carousel-caption-top h4 {
+  margin: 0 0 5px;
+}
+
+.carousel-caption-top p {
+  margin-bottom: 0;
+}
+
+
+
 
 .carousel-caption {
   position: absolute;

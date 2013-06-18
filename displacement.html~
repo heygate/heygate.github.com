@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Heygate Estate &middot; Setting the Record Straight</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/bootstrap-responsive.css" rel="stylesheet">
+    <style>
+
+    /* GLOBAL STYLES
+    -------------------------------------------------- */
+    /* Padding below the footer and lighter body text */
+
+    body {
+      padding-bottom: 40px;
+      color: #5a5a5a;
+    }
+
+
+
+    /* CUSTOMIZE THE NAVBAR
+    -------------------------------------------------- */
+
+    /* Special class on .container surrounding .navbar, used for positioning it into place. */
+    .navbar-wrapper {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 10;
+      margin-top: 20px;
+      margin-bottom: -90px; /* Negative margin to pull up carousel. 90px is roughly margins and height of navbar. */
+    }
+    .navbar-wrapper .navbar {
+
+    }
+
+    /* Remove border and change up box shadow for more contrast */
+    .navbar .navbar-inner {
+      border: 0;
+      -webkit-box-shadow: 0 2px 10px rgba(0,0,0,.25);
+         -moz-box-shadow: 0 2px 10px rgba(0,0,0,.25);
+              box-shadow: 0 2px 10px rgba(0,0,0,.25);
+    }
+
+    /* Downsize the brand/project name a bit */
+    .navbar .brand {
+      padding: 14px 20px 16px; /* Increase vertical padding to match navbar links */
+      font-size: 16px;
+      font-weight: bold;
+      text-shadow: 0 -1px 0 rgba(0,0,0,.5);
+    }
+
+    /* Navbar links: increase padding for taller navbar */
+    .navbar .nav > li > a {
+      padding: 15px 20px;
+    }
+
+    /* Offset the responsive button for proper vertical alignment */
+    .navbar .btn-navbar {
+      margin-top: 10px;
+    }
+/* RESPONSIVE CSS
+    -------------------------------------------------- */
+
+    @media (max-width: 979px) {
+
+      .container.navbar-wrapper {
+        margin-bottom: 0;
+        width: auto;
+      }
+      .navbar-inner {
+        border-radius: 0;
+        margin: -20px 0;
+      }
+
+      .carousel .item {
+        height: 500px;
+      }
+      .carousel img {
+        width: auto;
+        height: 500px;
+      }
+
+      .featurette {
+        height: auto;
+        padding: 0;
+      }
+      .featurette-image.pull-left,
+      .featurette-image.pull-right {
+        display: block;
+        float: none;
+        max-width: 40%;
+        margin: 0 auto 20px;
+      }
+    }
+
+
+    @media (max-width: 767px) {
+
+      .navbar-inner {
+        margin: -20px;
+      }
+
+      .carousel {
+        margin-left: -20px;
+        margin-right: -20px;
+      }
+      .carousel .container {
+
+      }
+      .carousel .item {
+        height: 300px;
+      }
+      .carousel img {
+        height: 300px;
+      }
+      .carousel-caption {
+        width: 65%;
+        padding: 0 70px;
+        margin-top: 100px;
+      }
+      .carousel-caption h1 {
+        font-size: 30px;
+      }
+      .carousel-caption .lead,
+      .carousel-caption .btn {
+        font-size: 18px;
+      }
+
+      .marketing .span4 + .span4 {
+        margin-top: 40px;
+      }
+
+      .featurette-heading {
+        font-size: 30px;
+      }
+      .featurette .lead {
+        font-size: 18px;
+        line-height: 1.5;
+      }
+
+    }
+    </style>
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="ico/favicon.png">
+  </head>
+
+
+<body>
+
+
+
+    <!-- NAVBAR
+    ================================================== -->
+    <div class="navbar-wrapper">
+      <!-- Wrap the .navbar in .container to center it within the absolutely positioned parent. -->
+      <div class="container">
+
+        <div class="navbar navbar-inverse">
+          <div class="navbar-inner">
+            <!-- Responsive Navbar Part 1: Button for triggering responsive navbar (not covered in tutorial). Include responsive CSS to utilize. -->
+            <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="brand" href="index.html">Heygate Estate</a>
+            <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
+            <div class="nav-collapse collapse">
+              <ul class="nav">
+                <li><a href="muggers-paradise.html">Muggers' Paradise?</a></li>
+                <li><a href="timeline.html">Timeline</a></li>
+               <li><a href="gallery.html">Memories</a></li>
+                <li class="active"><a href="displacement.html">Displacement</a></li>
+		<li><a href="about.html">Petition</a></li>
+               
+                </li>
+              </ul>
+            </div><!--/.nav-collapse -->
+          </div><!-- /.navbar-inner -->
+        </div><!-- /.navbar -->
+
+      </div> <!-- /.container -->
+    </div><!-- /.navbar-wrapper -->
+
+</br>
+</br>
+</br>
+</br>
+
+
+<div class="container marketing">
+<div class="featurette">
+        
+        <h2 class="featurette-heading">Forced Displacement</h2>
+        <p class="lead" align="justify">Heygate residents were never balloted on the decision to demolish their homes. This was a bone of contention during the preliminary stages of the regeneration, and in a <a href="img/examples/councilrulesoutvote.pdf">2003 interview</a> Regeneration Director Chris Horn said <i><b>"The estate is so central to the entire area's regeneration scheme, that a single issue 'yes' or 'no' vote is not appropriate."</i></b>
+<center>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/M3jVLqmU7R0" frameborder="0" allowfullscreen></iframe>
+</center>
+<p class="lead" align="justify">
+In terms of consultation there was only ever a number of 'opinion surveys' conducted over the years, which included questionnaires at exhibitions or surveys delivered to letterboxes. The one survey that received more responses than any other was the <b><a href="http://betterelephant.github.com/images/mori.pdf">1999 MORI poll</a></b>, in which 48% of the questionnaires were returned. The results were split evenly across 3 of the 4 available options:</p>
+<b>
+<ol>
+<li>Repair and improve all existing buildings - 29%</li>
+<li>Demolish and rebuild high-rise blocks whilst retaining and refurbishing low-rise - 25%</li>
+<li>Rebuild entire estate (with reprovision of all council homes for residents to return to) - 32%</li>
+<li>Demolish entire estate and build no new council homes - 5%</li>
+</ol>
+</b>
+<p class="lead" align="justify">
+Southwark misinterpreted the findings of this survey by adding options 2,3 & 4 together to claim that: <i><a href="http://betterelephant.github.com/images/futureofheygate.pdf">"62% of residents wanted all or part of the estate demolished"</a>.</i></p>
+
+<a href="http://betterelephant.github.com/images/new_homes_for_heygate.pdf"><img src="http://betterelephant.github.com/images/newhomesforheygate.jpg" width="300" height="200" align="right"></a>
+        <h2 class="featurette-heading">What happened to the Tenants?</h2>
+        <p class="lead" align="justify">Having been told that the council didn't have the money to maintain their homes, tenants were promised new homes - either in the new Heygate development or in a number of so-called 'early housing' sites: the council had planned to work in partnership with housing associations to build 1,100 new <b>social rented</b> homes on council-owned plots of land located around the Elephant & Castle, which would replace the 1,100 social rented homes to be lost on the Heygate. The idea was that the council would give away free plots of land to housing assocations, which would build new homes in a mix of private and affordable units - the affordable units being subsidised by the free land, and the sale of private units plus grant funding. The 15 'early housing' sites were laid out in a glossy <a href="http://betterelephant.github.com/images/new_homes_for_heygate.pdf">rehousing information pack</a> issued to Heygate tenants in Autumn 2004, showing the sites in detail so that they could select which of the new homes they wanted to move into.
+</br>
+</br>
+The foreword to the information pack included the following pledge from deputy leader Cllr Cathy Bowman: <i><b>"We have made sure that the construction of your new homes is the first thing that happens in this regeneration scheme."</i></b>
+</br>
+</br>
+
+By 2007 none of the early housing sites had been built and none had obtained planning permission. To avoid further delay of the demolition programme, Southwark decided to move everyone off the estate nonetheless. Council tenants were to be rehoused in historic council housing stock, insecure tenants would be dealt with according to their individual circumstances - some getting council housing, some maybe not. Leaseholders were still promised a retained equity option on the new homes to be built, but this was never to materialise. The decant decision was drawn up and passed by Cabinet in a report called the <a href="http://betterelephant.github.com/images/HeygateActionPlan.pdf">'Heygate Action Plan'</a>, which justified the decision to bring forward the decant as follows: <i><b>"Demolition of the Heygate will provide symbolic and tangible evidence to the people of Southwark that the Council is driving ahead with the regeneration of the Borough"</i></b>[Para. 8]. In fact there was no need to decant the estate at the time; there was no regeneration agreement in place, no masterplan or planning permission for the Heygate footprint, and the site still remains standing and empty 7 years later.
+<center>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/E9-cfAdGiFA" frameborder="0" allowfullscreen></iframe>
+</center>
+<p class="lead" align="justify">
+By this time, there were still nearly 600 tenants on the estate and as a consolation they were offered a 'Right to Return'. This was a return to both the 'early housing sites' and the new Heygate homes once they had been built - it was valid for 7 years up to 2015. We now know that only [8 social rented homes] are due to have been completed on the Heygate footprint by this time; and only 45 Heygate tenants have been rehoused in the so-called 'early housing sites' - everybody else remains in the historic council housing stock they moved into when they left the estate.
+ 
+
+</br>
+[Map of tenant displacement] - less than a quarter of tenants have remained in the postcodes adjoining the E&C.
+</br>
+
+<h2>Leaseholders</h2>
+<a href="img/Appendix8.pdf"><img src="img/HeygateNews.jpg" width="300" height="200" align="right"></a>
+<p class="lead" align="justify">
+Leaseholders were originally promised a 'retained equity' option on the new homes in both the early housing sites and the new Heygate development. But this never got written into the final development agreements with developers. Not one single leaseholder has moved into a new home at the Elephant as they had been promised. Most have been forced to relocate outside central London because of the low valuations offered by the council. The average compensation indexed to today's value received by leaseholders was as follows:
+
+This is why most have been forced to relocate outside central London:
+</br>
+</br>
+</br>
+</br>
+[Displacement Map]
+</br>
+</br>
+
+On average the [indexed] compensation paid to leaseholders amounts to 31% of the price of the <a href="http://trafalgarplace.com/?page_id=29">new Heygate homes</a>, which are currently being marketed in <a href="http://www2.hkej.com/property/article/id/77797">China</a>, <a href="http://www.65house.com/news/20130412/2638.html">Singapore</a>, <a href="http://www.theborneopost.com/2013/04/24/lend-lease-launches-trafalgar-place-development-in-london/">Malaysia</a> and <a href="http://property.hk.msn.com/news/new-development-tc/ad-15774/">Hong Kong</a>.
+
+<center>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/7yuT3RlR1Zc" frameborder="0" allowfullscreen></iframe>
+</center>
+
+
+And council leader Peter John is claiming that Heygate residents have all been happily rehoused in new homes at the Elephant!:
+<center>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/87Yg_SJoPjw" frameborder="0" allowfullscreen></iframe>
+</center>
+</div>
+
+
+
+</body>
+
+

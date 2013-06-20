@@ -211,7 +211,7 @@
         <h2 class="featurette-heading">Forced Displacement</h2>
         <p class="lead" align="justify">Heygate residents were never balloted on the decision to demolish their homes. This was a bone of contention during the preliminary stages of the regeneration, and in a <a href="img/examples/councilrulesoutvote.pdf">2003 interview</a> Regeneration Director Chris Horn said <i><b>"The estate is so central to the entire area's regeneration scheme, that a single issue 'yes' or 'no' vote is not appropriate."</i></b>
 <center>
-<iframe width="420" height="315" src="http://www.youtube.com/embed/M3jVLqmU7R0" frameborder="0" allowfullscreen></iframe>
+<div style="width:650px; font-size:60%; text-align:center;"><iframe width="420" height="315" src="http://www.youtube.com/embed/M3jVLqmU7R0" frameborder="0" allowfullscreen></iframe>'Up The Elephant' - J. Speechley 2002</div>
 </center>
 <p class="lead" align="justify">
 In terms of consultation there was only ever a number of 'opinion surveys' conducted over the years, which included questionnaires at exhibitions or surveys delivered to letterboxes. The one survey that received more responses than any other was the <b><a href="http://betterelephant.github.com/images/mori.pdf">1999 MORI poll</a></b>, in which 48% of the questionnaires were returned. The results were split evenly across 3 of the 4 available options:</p>
@@ -246,13 +246,15 @@ In fact there was no need to decant the estate at the time: there was no regener
 <p class="lead" align="justify">
 At the beginning of the decant in 2007, there were still nearly 600 tenants on the estate and as a consolation they were offered a <a href="http://betterelephant.github.com/images/righttoreturn.pdf">'Right to Return'</a>. This was a return to both the 'early housing sites' and the new Heygate homes once they had been built - it was valid for 7 years up to 2015. We now know that only <a href="http://www.bbc.co.uk/news/uk-england-london-20061007">8 social rented homes</a> are due to have been completed on the first phase of development within the Heygate footprint by this time, and only 45 Heygate tenants<a href="#footnote-1">[1]</a> have been rehoused in the so-called 'early housing sites' to date - everybody else remains in the historic council housing stock they moved into when they left the estate. From a <a href="https://www.whatdotheyknow.com/request/analysis_of_displaced_heygate_re#incoming-394155">Freedom of Information request</a>, we also now know that only around 1 in 5 Heygate secure tenants actually remain in the SE17 postcode (216 tenants out of 1034). 
 </br>
-Those tenants who objected were simply subjected to eviction proceedings under the 1985 Landlord & Tenant Act, and these were <a href="http://betterelephant.github.com/images/PWCHeygaterehousingproject.pdf">systematically</a> initiated against those tenants who had failed to bid and accept a property within a period of six months. According to a <a href="http://betterelephant.github.com/images/jonabbottCPOinquiry8Feb2013.pdf">document</a> tabled during the Feb 2013 Public Inquiry, a total of 198 tenanted households were issued with Notices to Seek Possession. Tenants were <a href="http://www.southwarknews.co.uk/00,news,9308,440,00.htm">highly dissatisfied</a> with the process, and many were forced to move into unsuitable alternative accommodation in distant corners of the borough. An <a href="img/Heygateweeklyhighlightreport.pdf">internal report</a> from Oct 2008 shows a total of 315 households bidding on just 35 available properties in the council's <a href="http://www.southwarkhomesearch.org.uk/Data/ASPPages/1/104.aspx">homesearch system</a>.</p> 
+<a href="https://mapsengine.google.com/map/edit?mid=zp9B4NC378BY.kEuISBfzdwZE"><img src="img/DisplacedTenants.png"></a>
+</br>
+Those tenants who objected were simply subjected to eviction proceedings under the 1985 Landlord & Tenant Act, which were <a href="http://betterelephant.github.com/images/PWCHeygaterehousingproject.pdf">systematically</a> initiated against those tenants who had failed to bid and accept a property within a period of six months. According to a <a href="http://betterelephant.github.com/images/jonabbottCPOinquiry8Feb2013.pdf">document</a> tabled during the Feb 2013 Public Inquiry, a total of 198 tenanted households were issued with Notices to Seek Possession. Tenants were <a href="http://www.southwarknews.co.uk/00,news,9308,440,00.htm">highly dissatisfied</a> with the process, and many were forced to move into unsuitable alternative accommodation in distant corners of the borough. An <a href="img/Heygateweeklyhighlightreport.pdf">internal report</a> from Oct 2008 shows a total of 315 households bidding on just 35 available properties in the council's <a href="http://www.southwarkhomesearch.org.uk/Data/ASPPages/1/104.aspx">homesearch system</a>.</p> 
  
 <p class="lead" align="justify">
 <h2>Leaseholders</h2>
 <a href="img/Appendix8.pdf"><img src="img/HeygateNews.jpg" width="300" height="200" align="right"></a>
 <p class="lead" align="justify">
-Leaseholders were originally promised a <a href="img/HeygateLeaseholderPolicy2005.pdf">'retained equity' option</a> on the new homes in both the early housing sites and the new Heygate development. But this never got written into the final development agreements with developers. Not one single leaseholder has moved into a new home in any of the early housing sites, and none will return to the Heygate as they had been promised. Most have been forced to relocate outside central London because of the low valuations offered by the council. <a href="http://affordable.heroku.com/images/LBSHeygateacquisitionsOct2012.xls">Analysis of information received from FOI requests</a> shows that the average compensation indexed to today's value received by leaseholders was as follows:</p>
+Leaseholders were originally promised a <a href="img/HeygateLeaseholderPolicy2005.pdf">'retained equity' option</a> on the new homes in both the early housing sites and the new Heygate development. But this never got written into the final development agreements with developers. Not one single leaseholder has moved into a new home in any of the early housing sites, and none will return to the Heygate as they had been promised. Most have been forced to relocate outside central London because of the low valuations offered by the council. <a href="http://affordable.heroku.com/images/LBSHeygateacquisitionsOct2012.xls">Analysis of information received from FOI requests</a> shows that the average compensation [indexed to today's value] received by leaseholders was as follows:</p>
 <b>
 <ul>
 <li>1 Bed flat - £108,164</li>
@@ -269,15 +271,32 @@ This is why most leaseholders have been forced to relocate outside central Londo
 
 </br>
 </br>
-<p class="lead" align="justify">
-On average the [indexed] compensation paid to leaseholders amounts to just 31% of the price of the <a href="http://trafalgarplace.com/?page_id=29">new Heygate homes</a>, which are currently being marketed in <a href="http://www2.hkej.com/property/article/id/77797">China</a>, <a href="http://www.65house.com/news/20130412/2638.html">Singapore</a>, <a href="http://www.theborneopost.com/2013/04/24/lend-lease-launches-trafalgar-place-development-in-london/">Malaysia</a> and <a href="http://property.hk.msn.com/news/new-development-tc/ad-15774/">Hong Kong</a>.
+
 
 <center>
 <iframe width="560" height="315" src="http://www.youtube.com/embed/7yuT3RlR1Zc" align="right" frameborder="0" allowfullscreen></iframe>
 </center>
 
 <p class="lead" align="justify">
-To add insult to injury, council leader Peter John recently claimed that Heygate residents have all been happily rehoused in new homes at the Elephant:
+On average the [indexed] compensation paid to leaseholders amounts to just 31% of the price of the <a href="http://trafalgarplace.com/?page_id=29">new Heygate homes</a>, which are currently being marketed in <a href="http://www2.hkej.com/property/article/id/77797">China</a>, <a href="http://www.65house.com/news/20130412/2638.html">Singapore</a>, <a href="http://www.theborneopost.com/2013/04/24/lend-lease-launches-trafalgar-place-development-in-london/">Malaysia</a> and <a href="http://property.hk.msn.com/news/new-development-tc/ad-15774/">Hong Kong</a>.
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+<p class="lead" align="justify">
+Leaseholders had stronger rights to object as they couldn't be evicted like the tenants. The council needed a Compulsory Purchase Order before it could evict leaseholders, but in order to obtain this it needed to demonstrate to the Secretary of State that there was a <i>'strong likelihood of the development plans being implemented within a reasonable time frame'</i>. However, with no regeneration agreement signed or development plan for the Heygate in place it was late 2012 before Southwark applied for the Compulsory Purchase Order. 
+</br>
+By this time, most leaseholders had surrendered to a war of attrition: they had spent 3 winters without heating since the council <a href="http://www.southwarknews.co.uk/00,news,19279,185,00.htm">cut off the district heating system</a> on the estate in Winter 09/10; rubbish collection and postal deliveries had been stopped; estate lighting was cut off and cleaning schedules had long since been halted.   
+
+By the time of the Public Inquiry for the Compulsory Purchase Order in February 2013, just a handful of leaseholders were left to <a href="http://betterelephant.org/blog/2013/06/19/regeneration-plans-branded-a-miserable-failure-at-cpo-inquiry/">table their objections</a> to the Order.
+
+
+<p class="lead" align="justify">
+As if Heygate residents hadn't suffered enough at the hands of its landlord and local authority, to add insult to injury council leader Peter John recently claimed that Heygate residents have all been happily rehoused in new homes at the Elephant!:
 <center>
 <iframe width="560" height="315" src="http://www.youtube.com/embed/87Yg_SJoPjw" frameborder="0" allowfullscreen></iframe>
 </center>

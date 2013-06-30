@@ -180,14 +180,14 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="brand" href="index.html">Heygate Estate</a>
+            <a class="brand" href="index.html">Heygate Was Home</a>
             <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
             <div class="nav-collapse collapse">
               <ul class="nav">
-                <li class="active"><a href="muggers-paradise.html">Muggers' Paradise?</a></li>
+                <li class="active"><a href="muggers-paradise.html">Not Muggers Paradise</a></li>
                 <li><a href="timeline.html">Timeline</a></li>
-               <li><a href="gallery.html">Memories</a></li>
-		<li><a href="about.html">Petition</a></li>
+                <li><a href="displacement.html">Displacement</a></li>
+		
                
                 </li>
               </ul>
@@ -240,8 +240,16 @@ Whilst the council still continues to remove political graffiti, it does nothing
 <a href="http://www.dailymail.co.uk/news/article-2316072/Poignant-pictures-decaying-crime-ridden-housing-estate-fallen-ruin-remaining-residents-await-bulldozers.html">http://www.dailymail.co.uk/news/article-2316072/Poignant-pictures-decaying-crime-ridden-housing-estate-fallen-ruin-remaining-residents-await-bulldozers.html</a> 
 </br>
 </br>
-We were once told by Fred Manson (Southwark's head of Regeneration) that Elephant & Castle was full of the wrong kind of people, and that he wanted to attract a more enterprising and creative class of people to the Elephant.</br>
-We are not sure this is what he had in mind..
+
+<div class="container marketing">
+<div class="featurette">
+ <p class="lead">As a response to the negative images portrayed in the media, we want to show some positive images of our happy memories of life on the estate before it was systematically run down by the landlord:</p>
+</br>
+</div>
+<div class="featurette" align="center">
+<object width="800" height="600"> <param name="flashvars" value="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F95719688%40N04%2Fshow%2F&page_show_back_url=%2Fphotos%2F95719688%40N04%2F&user_id=95719688@N04&jump_to="></param> <param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=124984"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=124984" allowFullScreen="true" flashvars="offsite=true&lang=en-us&page_show_url=%2Fphotos%2F95719688%40N04%2Fshow%2F&page_show_back_url=%2Fphotos%2F95719688%40N04%2F&user_id=95719688@N04&jump_to=" width="800" height="600"></embed></object>
+</div>
+</div>
 
 
 </div>

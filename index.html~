@@ -459,12 +459,22 @@ over Southwark. Southwark's regeneration plans are a miserable failure. Everyone
           <div class="container">
             <div class="carousel-caption">
               <h1>Rehme Mustafa</h1>
-              <p class="lead" align="justify"><b>I feel like we have been bullied out.</b></p>
+              <p class="lead" align="justify"><b>I miss seeing my friends at the Elephant and my son in Camberwell. I feel like we have been bullied out.</b></p>
                <a class="btn btn-large btn-primary" href="img/RehmeMustafa.pdf">Read Rehme's story</a>
             </div>
           </div>
         </div>
 
+<div class="item">
+          <img src="img/barry.jpg" alt="">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Barry</h1>
+              <p class="lead" align="justify"><b>I don't know why we couldn't all move to the same place, this is what they originally promised – they were going to build new blocks just for Heygate residents, but this never happened. </b></p>
+               <a class="btn btn-large btn-primary" href="img/Barry.pdf">Read Barry's story</a>
+            </div>
+          </div>
+        </div>
 
         <div class="item">
           <img src="img/examples/timtinker.jpg" alt="">

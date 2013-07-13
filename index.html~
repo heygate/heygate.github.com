@@ -376,6 +376,19 @@ class of people to the elephant and castle."</b> Well I said <b>"you can’t get
           </div>
         </div>
 
+<div class="item">
+          <img src="img/GregSanziri.JPG" alt="">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Greg Sanziri</h1>
+              <p class="lead" align="justify"><b>They said <i>"either you accept what we are offering or we will take you to court."</i>It was all about profit and economy - not people.</b></p>
+              <a class="btn btn-large btn-primary" href="img/GregSanziri.pdf">Read Greg's story</a>
+            </div>
+          </div>
+        </div>
+
+
+
         <div class="item">
           <img src="img/examples/helen.jpg" alt="">
           <div class="container">
@@ -384,6 +397,17 @@ class of people to the elephant and castle."</b> Well I said <b>"you can’t get
               <p class="lead" align="justify"><b>What was once a thriving community has now been scattered all 
 over Southwark. Southwark's regeneration plans are a miserable failure. Everyone who has worked on the regeneration at the Elephant should be thoroughly ashamed of themselves.</b></p>
               <a class="btn btn-large btn-primary" href="img/examples/HelenObrien.pdf">Read Helen's story</a>
+            </div>
+          </div>
+        </div>
+
+<div class="item">
+          <img src="img/OrhoOkorodudu.JPG" alt="">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Orho Okorodudu</h1>
+              <p class="lead" align="justify"><b>I don't think the council understands what a community is. They look at things from a purely financial perspective, but the social and cultural consequences of dispersing a community are beyond measure.</b></p>
+              <a class="btn btn-large btn-primary" href="img/OrhoOkorodudu.pdf">Read Orho's story</a>
             </div>
           </div>
         </div>

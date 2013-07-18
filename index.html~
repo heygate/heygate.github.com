@@ -113,10 +113,13 @@
     .carousel-caption .lead {
       margin: 0;
       line-height: 1.25;
-      color: #fff;
-      text-shadow: 0 10px 10px rgba(0,0,0,.4);
+      color: beige;
+      text-shadow: 1px 1px 1px black, 3px 3px 5px black;
      
     }
+
+
+
     .carousel-caption .btn {
       margin-top: 10px;
     }
@@ -292,7 +295,7 @@
               <ul class="nav">
                 <li><a href="muggers-paradise.html">Not Muggers Paradise</a></li>
                 <li><a href="displacement.html">Uprooted</a></li>
-                <li><a href="timeline.html">The Timeline</a></li>
+                <li><a href="timeline.html">The Regeneration Game</a></li>
                
                               
                 </li>

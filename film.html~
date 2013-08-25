@@ -17,7 +17,7 @@
            start: 2,
            end: 6,
            text: "Pop!",
-           target: "footnotediv"
+           
          });
  
          // play the video right away

@@ -16,7 +16,7 @@
          example.subtitle({
            start: 2,
            end: 6,
-           text: "Pop!",
+           text: <a href="http://betterelephant.org">BE link</a>,
        });
 
 

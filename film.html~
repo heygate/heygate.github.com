@@ -74,7 +74,7 @@
             <ul class="nav nav-list">
               <li class="nav-header">Chapter 1</li>
               <li class="active"><a href="#">Link</a></li>
-              <li><a href="#consultation.html">Consultation Farce</a></li>
+              <li><a href="consultation.html">Consultation Farce</a></li>
               <li><a href="#">Link</a></li>
               <li><a href="#">Link</a></li>
               <li class="nav-header">Sidebar</li>

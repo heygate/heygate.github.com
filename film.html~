@@ -12,7 +12,7 @@
            '#video',
            'http://www.youtube.com/watch?v=CxvgCLgwdNk' );
  
-         // add a footnote at 2 seconds, and remove it at 6 seconds
+         // add a footnote at 3 seconds, and remove it at 6 seconds
          example.footnote({
            start: 2,
            end: 6,

@@ -293,10 +293,10 @@
             <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
             <div class="nav-collapse collapse">
               <ul class="nav">
-                <li><a href="muggers-paradise.html">Not Muggers Paradise</a></li>
+               
                 <li><a href="press-archive.html">Press Archive</a></li>
                 <li><a href="film-archive.html">Film Archive</a></li>
-                <li><a href="displacement.html">Uprooted</a></li>
+                <li><a href="displacement.html">Where are they now?</a></li>
                 <li><a href="timeline.html">Regeneration Timeline</a></li>
                
                               

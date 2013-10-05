@@ -184,7 +184,7 @@
             <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
             <div class="nav-collapse collapse">
               <ul class="nav">
-                <li><a href="muggers-paradise.html">Not Muggers Paradise</a></li>
+                
                 <li class="active"><a href="press-archive.html">Press Archive</a></li>
                 <li><a href="film-archive.html">Film Archive</a></li>
                 <li><a href="displacement.html">Uprooted</a></li>
@@ -209,7 +209,7 @@
 <div class="container marketing">
 <div class="featurette">
 
-   <div class="row">
+   <div class="well sidebar-nav">
         <div class="span4">
           
           
@@ -233,12 +233,23 @@
 
         </div>
 
-        <iframe width="300" height="169" src="http://www.youtube.com/embed/87Yg_SJoPjw" frameborder="0" align="right" allowfullscreen></iframe>
-        <h2 class="featurette-heading">Bad Press?</h2>
-        <p class="lead">Despite Met Police statistics showing <a href="http://betterelephant.org/images/HeygateCrimeStats.pdf">a crime rate</a> 45% below the borough average, the council claims <a href="http://www.southwark.gov.uk/news/article/305/demolition_begins_on_heygate_estate">in press releases</a> that the Heygate estate suffered from crime and antisocial behaviour. Councillor Colley has described it as a <a href="http://www.bbc.co.uk/news/uk-england-london-21338296">'concrete fortress'</a> and a <a href="http://www.bdonline.co.uk/comment/debate/should-the-heygate-estate-be-torn-down?/5050351.article">'blight on the landscape'</a>. Council leader Peter John described the estate as <i><b>"a by-word for social failure, for crime and anti-social behaviour".</b></i>
-</br> As a result, the estate has gained an undeserved reputation: being labelled <i><b>"Muggers' paradise"</b></i> in sensationalist press articles by the <a href="http://www.bbc.co.uk/news/uk-england-london-13092349">BBC</a> and the <a href="http://www.standard.co.uk/news/london/makeover-of-muggers-paradise-heygate-estate-7445697.html">Evening Standard</a>, and a <b><i>"human dustbin"</b></i> where people <b><i>"live like pigs"</b></i> in the <a href="http://www.telegraph.co.uk/comment/columnists/simonheffer/8010830/Brilliant-architecture-can-rescue-even-Basingstoke.html">Daily Telegraph</a>. 
+        
+        <h2 class="featurette-heading">Press Archive</h2>
+        <p class="lead">Below is a very small selection of articles about the Heygate. The numerous references to infamous sink estates and crime serve to reinforce the council's and developer's regeneration agenda, and erase the real history of the estate and its residents. None of the articles mention the dis-investment by the Council, which accounted for a lot of the bad conditions in the infrastructure of The Heygate. Such dis-investment over time was always useful for the Council in giving local tenants very little real choice about regeneration possibilities. Many of the press articles suggest that the 70′s architecture itself created poverty and deprivation, without taking into account the council's local housing policies - i.e. the council's decision to stop issuing secure tenancies in the late 1990s and its use of housing allocation on the estate for its temporary housing obligations.  
+
+Despite this policy, which undoubtedly had a negative effect on deprivation indicators, Met Police statistics show <a href="http://betterelephant.org/images/HeygateCrimeStats.pdf">a crime rate</a> 45% below the borough average.
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<iframe width="300" height="169" src="http://www.youtube.com/embed/87Yg_SJoPjw" frameborder="0" align="right" allowfullscreen></iframe>
+To what extent the media coverage has been affected by general prejudices towards modernist architecture and to what extent by council and developer <a href="http://www.southwark.gov.uk/news/article/305/demolition_begins_on_heygate_estate">press releases</a> remains open to question. Councillor Colley once described it as a <a href="http://www.bbc.co.uk/news/uk-england-london-21338296">'concrete fortress'</a> and a <a href="http://www.bdonline.co.uk/comment/debate/should-the-heygate-estate-be-torn-down?/5050351.article">'blight on the landscape'</a>. Council leader Peter John described the estate as <i><b>"a by-word for social failure, for crime and anti-social behaviour".</b></i>
+</br> Subsequent press articles have seen the estate labelled <i><b>"Muggers' paradise"</b></i> by the <a href="http://www.bbc.co.uk/news/uk-england-london-13092349">BBC</a> and the <a href="http://www.standard.co.uk/news/london/makeover-of-muggers-paradise-heygate-estate-7445697.html">Evening Standard</a>, and a <b><i>"human dustbin"</b></i> where people <b><i>"live like pigs"</b></i> in the <a href="http://www.telegraph.co.uk/comment/columnists/simonheffer/8010830/Brilliant-architecture-can-rescue-even-Basingstoke.html">Daily Telegraph</a>. 
 
 The estate has also been promoted by the council for use as a film backdrop for a large number of gang and violence-related movies like Michael Caine's "Harry Brown", who labelled the estate <i><b>"a rotten place, not fit for animals"</b></i>. We think this is an insult to our former community, and the hundreds of families who lived here happily for decades until we were forced from our homes to make way for the regeneration. 
+
 </br>
 </br>
 </br>
@@ -288,10 +299,12 @@ Whilst the council still continues to remove political graffiti, it does nothing
 
 
 </div>
+
  <footer>
         <p class="pull-right">Contact: <i>heygateresidents@gmail.com</i></p>
         <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US">Creative Commons Attribution 3.0 Unported License</a>.
       </footer>
+
 
 
 </body>
